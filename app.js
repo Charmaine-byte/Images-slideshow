@@ -1,12 +1,11 @@
 // images in a array
 let images = [
-  "images/yandisa1.jpg",
-  "images/yandisa2.jpg",
-  "images/zinhle.jpg",
-  "images/yandisa3.jpg",
-  "images/me1.jpg",
-  "images/me2.jpg",
-  "images/mom.jpg",
+  "images/house1.jpg",
+  "images/house2.jpg",
+  "images/house3.jpg",
+  "images/house4.jpg",
+  "images/house5.jpg",
+  "images/house6.jpg",
 ];
 
 let currentIndex = 0;
